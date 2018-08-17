@@ -1,0 +1,5 @@
+﻿  Actor.cpp
+c:\users\sean\documents\classes\2nd year\cs32\nachenblaster-skeleton-windows\nachenblaster\nachenblaster\actor.cpp(204): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\sean\documents\classes\2nd year\cs32\nachenblaster-skeleton-windows\nachenblaster\nachenblaster\actor.cpp(349): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  NachenBlaster.vcxproj -> C:\Users\Sean\Documents\Classes\2nd year\CS32\NachenBlaster-skeleton-windows\NachenBlaster\Debug\NachenBlaster.exe
+  NachenBlaster.vcxproj -> C:\Users\Sean\Documents\Classes\2nd year\CS32\NachenBlaster-skeleton-windows\NachenBlaster\Debug\NachenBlaster.pdb (Full PDB)
