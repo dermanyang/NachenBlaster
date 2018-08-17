@@ -1,2 +1,2 @@
 # NachenBlaster
-Fun Inheritance-based C++ project from UCLA's Computer Science 32
+Fun polymorphism-based C++ project from UCLA's Computer Science 32
